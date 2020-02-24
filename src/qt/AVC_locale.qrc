@@ -1,0 +1,37 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/AVC_bg.qm</file>
+        <file alias="ca">locale/AVC_ca.qm</file>
+        <file alias="cs">locale/AVC_cs.qm</file>
+        <file alias="da">locale/AVC_da.qm</file>
+        <file alias="de">locale/AVC_de.qm</file>
+        <file alias="en">locale/AVC_en.qm</file>
+        <file alias="en_GB">locale/AVC_en_GB.qm</file>
+        <file alias="en_US">locale/AVC_en_US.qm</file>
+        <file alias="eo">locale/AVC_eo.qm</file>
+        <file alias="es">locale/AVC_es.qm</file>
+        <file alias="es_ES">locale/AVC_es_ES.qm</file>
+        <file alias="fi">locale/AVC_fi.qm</file>
+        <file alias="fr_FR">locale/AVC_fr_FR.qm</file>
+        <file alias="hi_IN">locale/AVC_hi_IN.qm</file>
+        <file alias="hr">locale/AVC_hr.qm</file>
+        <file alias="hr_HR">locale/AVC_hr_HR.qm</file>
+        <file alias="it">locale/AVC_it.qm</file>
+        <file alias="ja">locale/AVC_ja.qm</file>
+        <file alias="ko_KR">locale/AVC_ko_KR.qm</file>
+        <file alias="lt_LT">locale/AVC_lt_LT.qm</file>
+        <file alias="nl">locale/AVC_nl.qm</file>
+        <file alias="pl">locale/AVC_pl.qm</file>
+        <file alias="pt">locale/AVC_pt.qm</file>
+        <file alias="pt_BR">locale/AVC_pt_BR.qm</file>
+        <file alias="ro_RO">locale/AVC_ro_RO.qm</file>
+        <file alias="ru">locale/AVC_ru.qm</file>
+        <file alias="sk">locale/AVC_sk.qm</file>
+        <file alias="sv">locale/AVC_sv.qm</file>
+        <file alias="tr">locale/AVC_tr.qm</file>
+        <file alias="uk">locale/AVC_uk.qm</file>
+        <file alias="vi">locale/AVC_vi.qm</file>
+        <file alias="zh_CN">locale/AVC_zh_CN.qm</file>
+        <file alias="zh_TW">locale/AVC_zh_TW.qm</file>
+    </qresource>
+</RCC>

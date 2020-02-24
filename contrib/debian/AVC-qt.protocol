@@ -1,0 +1,11 @@
+[Protocol]
+exec=AVC-qt '%u'
+protocol=AVC
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

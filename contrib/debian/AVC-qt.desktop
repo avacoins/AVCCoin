@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=AVC
+Comment=AVC P2P Cryptocurrency
+Comment[fr]=AVC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=AVC, eşten eşe kriptografik sanal para birimi
+Exec=AVC-qt %u
+Terminal=false
+Type=Application
+Icon=AVC128
+MimeType=x-scheme-handler/AVC;
+Categories=Office;Finance;
+StartupWMClass=AVC-qt

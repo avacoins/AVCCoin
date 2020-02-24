@@ -1,0 +1,6 @@
+usr/local/bin/AVC-qt usr/bin
+share/pixmaps/AVC32.xpm usr/share/pixmaps
+share/pixmaps/AVC16.xpm usr/share/pixmaps
+share/pixmaps/AVC128.png usr/share/pixmaps
+debian/AVC-qt.desktop usr/share/applications
+debian/AVC-qt.protocol usr/share/kde4/services/

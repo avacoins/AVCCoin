@@ -1,0 +1,3 @@
+usr/local/bin/AVCd usr/bin
+usr/local/bin/AVC-cli usr/bin
+debian/examples/AVC.conf etc/AVC
